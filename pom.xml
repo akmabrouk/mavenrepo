@@ -27,7 +27,7 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>ABCD0EFD-E59F9452-6788C8BD-F72F5183-E7394086</id>
             <name>Internal Releases</name>
             <url>http://localhost:8081/repository/SAMPLE-REL/</url>
         </repository>
